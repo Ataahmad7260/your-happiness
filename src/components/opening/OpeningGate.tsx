@@ -76,7 +76,7 @@ export const OpeningGate: React.FC<OpeningGateProps> = ({ onEnter }) => {
               transition={{ duration: 1.4, ease: 'easeOut' }}
               className="font-editorial text-3xl sm:text-4xl md:text-5xl font-light tracking-wide text-amber-50 drop-shadow-sm mb-6"
             >
-              Hey, you. <span className="font-handwriting text-rose-300 font-normal">♡</span>
+              Hey, you. Bella <span className="font-handwriting text-rose-300 font-normal">♡</span>
             </motion.h1>
           )}
         </AnimatePresence>
