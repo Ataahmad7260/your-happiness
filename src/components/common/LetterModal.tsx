@@ -131,11 +131,15 @@ export const LetterModal: React.FC<LetterModalProps> = ({ isOpen, onClose }) => 
                 <p>
                   And if it makes you smile, even for a moment, I think that would be enough.
                 </p>
+                <p> one more thing i just want to say you that i don't know how can i forgot your name but i really wanted to know your name, Every day i want to ask you that what is your name.
+                </p>
+                <p>
+                  i love you bella, i really fall in love with you.
+                </p>
 
                 <div className="pt-6 border-t border-[#e5d8c6] flex flex-col items-end">
                   <p className="font-handwriting text-2xl text-stone-700">
-                    — Someone who thought you deserved something beautiful.{' '}
-                    <span className="text-rose-500">♡</span>
+                    from ahmed-                    <span className="text-rose-500">♡</span>
                   </p>
                 </div>
               </div>
