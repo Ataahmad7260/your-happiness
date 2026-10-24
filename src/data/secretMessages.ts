@@ -1,0 +1,55 @@
+import type { SecretItem } from '../types';
+
+
+export const SECRET_GARDEN_ITEMS: SecretItem[] = [
+  {
+    id: 1,
+    name: 'Blue Bellflower',
+    flowerType: 'bellflower',
+    x: 22,
+    y: 65,
+    discovered: false,
+    message: 'You notice things others overlook.',
+    reflection: 'The way the light shifts at dusk, the tone of someone\'s voice, the quietest beauty in ordinary rooms. It is one of the sweetest gifts you carry without even trying.',
+  },
+  {
+    id: 2,
+    name: 'Silver Moonflower',
+    flowerType: 'moonflower',
+    x: 48,
+    y: 78,
+    discovered: false,
+    message: 'You don\'t have to carry everyone\'s world on your shoulders.',
+    reflection: 'You care so deeply that you often forget to leave some tenderness for yourself. Set down what isn\'t yours to hold tonight.',
+  },
+  {
+    id: 3,
+    name: 'Golden Dandelion',
+    flowerType: 'dandelion',
+    x: 75,
+    y: 62,
+    discovered: false,
+    message: 'May you find pockets of unexpected laughter in ordinary Tuesdays.',
+    reflection: 'Life doesn\'t only happen during grand milestones. The prettiest moments are hidden in morning coffee steam and funny little texts.',
+  },
+  {
+    id: 4,
+    name: 'Starlit Waterlily',
+    flowerType: 'waterlily',
+    x: 35,
+    y: 42,
+    discovered: false,
+    message: 'Even when you think nobody notices how hard you try...',
+    reflection: 'I notice how much genuine heart you pour into whatever you do. You are doing so much better than you give yourself credit for.',
+  },
+  {
+    id: 5,
+    name: 'Radiant Night Blossom',
+    flowerType: 'nightblossom',
+    x: 68,
+    y: 38,
+    discovered: false,
+    message: 'Be gentle with your soft heart. It\'s rare.',
+    reflection: 'The world sometimes tries to make people guarded and sharp. The fact that you stay thoughtful and kind is quietly revolutionary.',
+  },
+];
